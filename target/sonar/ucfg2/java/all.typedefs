@@ -1,20 +1,0 @@
-Ö
-java.lang.ObjectJ
-equals(Ljava/lang/Object;),java.lang.Object#equals(Ljava/lang/Object;)Z*
-
-finalize()java.lang.Object#finalize()V&
-notify()java.lang.Object#notify()V&
-<init>()java.lang.Object#<init>()V;
-
-toString()-java.lang.Object#toString()Ljava/lang/String;$
-wait(J)java.lang.Object#wait(J)V&
-wait(JI)java.lang.Object#wait(JI)V:
-
-getClass(),java.lang.Object#getClass()Ljava/lang/Class;5
-clone()*java.lang.Object#clone()Ljava/lang/Object;,
-notifyAll()java.lang.Object#notifyAll()V"
-wait()java.lang.Object#wait()V*
-
-hashCode()java.lang.Object#hashCode()I>
-	main.Mainjava.lang.Object
-<init>()main.Main#<init>()V
